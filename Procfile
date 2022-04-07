@@ -1,1 +1,1 @@
-worker: python bot/main.py
+web: vendor/bin/heroku-php-apache2 bot/
